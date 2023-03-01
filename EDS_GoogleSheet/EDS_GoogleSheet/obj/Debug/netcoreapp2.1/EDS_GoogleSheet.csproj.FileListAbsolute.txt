@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\EDS_GoogleSheet.deps.json
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\EDS_GoogleSheet.runtimeconfig.json
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\EDS_GoogleSheet.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\EDS_GoogleSheet.dll
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\EDS_GoogleSheet.pdb
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.dll
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\obj\Debug\netcoreapp2.1\EDS_GoogleSheet.pdb
+C:\Users\ASUS\source\repos\EDS_GoogleSheet\EDS_GoogleSheet\bin\Debug\netcoreapp2.1\credenciales.json
